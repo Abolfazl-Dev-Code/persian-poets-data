@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hafez",
+    "ganjoorId": "hafez",
+    "displayName": "حافظ",
+    "imageUrl": "https://api.ganjoor.net/api/ganjoor/poet/image/hafez.gif",
+    "isBundled": true,
+    "isPremium": false
+  },
+  {
+    "id": "khayyam",
+    "ganjoorId": "khayyam",
+    "displayName": "خیام",
+    "imageUrl": "https://api.ganjoor.net/api/ganjoor/poet/image/khayyam.gif",
+    "isBundled": false,
+    "isPremium": false
+  },
+  {
+    "id": "saadi",
+    "ganjoorId": "saadi",
+    "displayName": "سعدی",
+    "imageUrl": "https://api.ganjoor.net/api/ganjoor/poet/image/saadi.gif",
+    "isBundled": false,
+    "isPremium": false
+  }
+]
